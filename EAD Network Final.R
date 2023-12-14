@@ -65,17 +65,12 @@ EAD_plot <- ggraph(graph = EAD_Network, layout = "fr") +
   ggtitle("CFS-EAD Network",
           subtitle="Updated 12/11/23")
 
-EAD_plot 
+EAD_plot
 
 ggsave(file.path(globparms$outputDir, "EAD_Network_Plot.jpg"),
        plot=EAD_plot,
        width=12,
        height=9.5,
        units=c("in"))
-
-# ## [OPTIONAL] Testing descriptive stats
-# distances(EAD_Network)[1:25, 1:25] ## Degrees of separation
-# shortest_paths(EAD_Network, from="Chelsea Tao", to="Sydney Rowe") 
-# diameter(EAD_Network) ## Length of the longest shortest path 
 
 print("Script Complete")
