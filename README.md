@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Networks enable the visualization and analysis of connections (relationships) between data points. Networks consist of two elements: vertices (or nodes) which represent objects or people within the network and their associated attributes, and edges (or links) representing the connection(s) between the vertices. Vertices are represented by a specified shape and edges are represented by lines extending from one vertex to another. Networks can be applied to a wide variety of social, economic, and biological analyses to help understand relationship structures within a given context.
+Networks enable the visualization and analysis of connections (relationships) between data points. Networks consist of two elements: vertices (or nodes) which represent objects or people within the network and their associated attributes, and edges (or links) representing the connection(s) between the vertices. Vertices are represented by a specified shape, and edges are represented by lines extending from one vertex to another. Networks can be applied to a wide variety of social, economic, and biological analyses to help understand relationship structures within a given context.
 
 **Description**
 
