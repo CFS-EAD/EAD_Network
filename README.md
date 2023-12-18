@@ -12,4 +12,4 @@ Both the vector and edge list are author-created and refer to information provid
 
 **Results**
 
-![](output/EAD_Network_Plot.jpg){width="559"}
+![](output/EAD_Network_Plot.jpg)
