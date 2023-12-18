@@ -73,4 +73,4 @@ ggsave(file.path(globparms$outputDir, "EAD_Network_Plot.jpg"),
        height=9.5,
        units=c("in"))
 
-print("Script Complete")
+message("Script Complete")
